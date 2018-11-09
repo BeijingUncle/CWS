@@ -18,7 +18,7 @@ CWS 是一个实验项目，用于学习 Wi-Fi 探针相关技术，espressif �
 
 * 监听来自 CDC 和 NodeMCU 的 AT 指令，并把属于 DOIT 模块的 AT 指令转发给 DOIT 模块
 
-* 将来自于 DOIT 模块的数据转发给 NodeMCU，并提供一个额外的 AT 指令用于开始/挺尸数据转发
+* 将来自于 DOIT 模块的数据转发给 NodeMCU，并提供一个额外的 AT 指令用于 开始/停止 数据转发
 
 固件设计
 -------
