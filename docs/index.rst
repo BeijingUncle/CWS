@@ -34,7 +34,8 @@ CWS 是一个实验项目，用于学习 Wi-Fi 探针相关技术，espressif �
 
 
 .. toctree::
-   :hidden:
+   :maxdepth: 2
+   :caption: 目录
 
    关于 CWS <index>
    DOIT 模块 <doit>
