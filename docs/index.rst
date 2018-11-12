@@ -29,7 +29,7 @@ CWS 是一个实验项目，用于学习 Wi-Fi 探针相关技术，espressif �
 介绍。
 
 .. toctree::
-   :hidden:
+   :caption:TABLE OF CONTENTS
 
    快速入门 <get-started/index>
    快速入门 (CMake 预览版本) <get-started-cmake/index>
